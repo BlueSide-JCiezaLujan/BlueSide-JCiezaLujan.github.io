@@ -18,5 +18,5 @@
 </ul>
 
 <ul>
-    <li><a href="https://davidstevensonvtex.github.io/HelloWorld2/">Hello World Project</a></li>
+    <li><a href="">Hello World Project</a></li>
 </ul>
